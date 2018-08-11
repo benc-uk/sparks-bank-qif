@@ -1,0 +1,5 @@
+output.qif
+*.pdf
+*.txt
+node.exe
+node_modules/
