@@ -1,0 +1,1 @@
+# Converter for M&S PDF bank statement to QIF file
